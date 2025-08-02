@@ -1,5 +1,5 @@
 # Git-Demo
-This is my first project in git repository.<br>
+This is my first git repository.<br>
 I am Ronak Das
 
 
